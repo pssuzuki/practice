@@ -1,6 +1,6 @@
-#success cloning!!
-#����Ȋ����ł����ł����H
-#3�s��
-#4�s��
-#TeraPad�ŕҏW���Ă݂܂����B
-���߂ł����̂�Notepad++�ł���Ă݂܂����B
+﻿#success cloning!!
+#こんな感じでいいですか？
+#3行目
+#4行目
+#TeraPadで編集してみました。
+だめでしたのでNotepad++でやってみました。
